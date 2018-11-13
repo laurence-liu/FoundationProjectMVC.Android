@@ -1,15 +1,15 @@
-package liuuu.laurence.fundationprojectmvcandroid.RecyclerViewSample
+package liuuu.laurence.foundationprojectmvcandroid.RecyclerViewSample
 
 import android.os.Bundle
 import android.view.MenuItem
 import android.view.View.GONE
 import kotlinx.android.synthetic.main.activity_recycler.*
-import liuuu.laurence.fundationprojectmvcandroid.BaseActivity
-import liuuu.laurence.fundationprojectmvcandroid.R
-import liuuu.laurence.fundationprojectmvcandroid.api.RetrofitClient
-import liuuu.laurence.fundationprojectmvcandroid.model.GitHubUser
-import liuuu.laurence.fundationprojectmvcandroid.utility.OnItemClickListener
-import liuuu.laurence.fundationprojectmvcandroid.utility.SetUpLayoutManager
+import liuuu.laurence.foundationprojectmvcandroid.BaseActivity
+import liuuu.laurence.foundationprojectmvcandroid.R
+import liuuu.laurence.foundationprojectmvcandroid.api.RetrofitClient
+import liuuu.laurence.foundationprojectmvcandroid.model.GitHubUser
+import liuuu.laurence.foundationprojectmvcandroid.utility.OnItemClickListener
+import liuuu.laurence.foundationprojectmvcandroid.utility.SetUpLayoutManager
 import org.jetbrains.anko.toast
 import retrofit2.Call
 import retrofit2.Callback

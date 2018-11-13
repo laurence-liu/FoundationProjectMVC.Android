@@ -1,4 +1,4 @@
-package liuuu.laurence.fundationprojectmvcandroid.api
+package liuuu.laurence.foundationprojectmvcandroid.api
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

@@ -1,4 +1,4 @@
-package liuuu.laurence.fundationprojectmvcandroid.model
+package liuuu.laurence.foundationprojectmvcandroid.model
 
 import com.google.gson.annotations.SerializedName
 

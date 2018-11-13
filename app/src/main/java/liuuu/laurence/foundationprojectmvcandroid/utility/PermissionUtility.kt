@@ -1,4 +1,4 @@
-package liuuu.laurence.fundationprojectmvcandroid.utility
+package liuuu.laurence.foundationprojectmvcandroid.utility
 
 import android.Manifest
 import android.content.pm.PackageManager

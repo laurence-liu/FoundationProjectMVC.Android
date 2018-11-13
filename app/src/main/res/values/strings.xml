@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">FundationProjectMVC.Android</string>
+    <string name="app_name">FoundationProjectMVC.Android</string>
     <string name="splash_activity_intro">Hello SplashScreen</string>
 </resources>

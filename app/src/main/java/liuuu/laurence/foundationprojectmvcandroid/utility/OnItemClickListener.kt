@@ -1,4 +1,4 @@
-package liuuu.laurence.fundationprojectmvcandroid.utility
+package liuuu.laurence.foundationprojectmvcandroid.utility
 
 interface OnItemClickListener {
     fun onItemClick(position: Int)

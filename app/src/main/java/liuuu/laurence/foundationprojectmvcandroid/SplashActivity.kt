@@ -1,9 +1,9 @@
-package liuuu.laurence.fundationprojectmvcandroid
+package liuuu.laurence.foundationprojectmvcandroid
 
 import android.os.Bundle
 import android.os.CountDownTimer
 import android.support.v7.app.AppCompatActivity
-import liuuu.laurence.fundationprojectmvcandroid.utility.Preference
+import liuuu.laurence.foundationprojectmvcandroid.utility.Preference
 import org.jetbrains.anko.startActivity
 
 class SplashActivity : AppCompatActivity() {
