@@ -1,4 +1,4 @@
-package liuuu.laurence.fundationprojectmvcandroid
+package liuuu.laurence.foundationprojectmvcandroid
 
 import org.junit.Test
 
