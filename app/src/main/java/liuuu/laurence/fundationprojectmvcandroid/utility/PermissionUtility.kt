@@ -7,8 +7,7 @@ import android.app.Activity
 import android.support.v4.app.ActivityCompat
 import android.support.v4.content.ContextCompat
 
-class PermissionUtility {
-
+object PermissionUtility {
     // Location permission
     private val MY_PERMISSIONS_REQUEST_FINE_LOCATION = 101
     // External permission
@@ -64,5 +63,4 @@ class PermissionUtility {
             }
         }
     }
-
 }

@@ -3,8 +3,7 @@ package liuuu.laurence.fundationprojectmvcandroid.utility
 import android.content.Context
 
 // Reference: https://www.jianshu.com/p/ff67ba80fe36
-class DisplayUtility {
-
+object DisplayUtility {
     /**
      * px to dp
      *
