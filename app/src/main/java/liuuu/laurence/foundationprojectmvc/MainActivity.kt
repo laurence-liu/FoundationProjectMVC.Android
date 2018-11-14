@@ -1,8 +1,8 @@
-package liuuu.laurence.foundationprojectmvcandroid
+package liuuu.laurence.foundationprojectmvc
 
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_main.*
-import liuuu.laurence.foundationprojectmvcandroid.RecyclerViewSample.RecyclerViewActivity
+import liuuu.laurence.foundationprojectmvc.RecyclerViewSample.RecyclerViewActivity
 import org.jetbrains.anko.*
 import java.util.*
 

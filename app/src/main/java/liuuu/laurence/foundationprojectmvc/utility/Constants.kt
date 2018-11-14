@@ -1,4 +1,4 @@
-package liuuu.laurence.foundationprojectmvcandroid.utility
+package liuuu.laurence.foundationprojectmvc.utility
 
 object Constants {
     const val API_ADDRESS = "http://192.168.0.1/api"

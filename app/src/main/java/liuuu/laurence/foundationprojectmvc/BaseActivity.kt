@@ -1,4 +1,4 @@
-package liuuu.laurence.foundationprojectmvcandroid
+package liuuu.laurence.foundationprojectmvc
 
 import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.Toolbar

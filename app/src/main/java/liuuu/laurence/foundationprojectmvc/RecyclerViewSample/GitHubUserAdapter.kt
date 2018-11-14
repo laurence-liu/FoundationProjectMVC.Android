@@ -1,16 +1,16 @@
-package liuuu.laurence.foundationprojectmvcandroid.RecyclerViewSample
+package liuuu.laurence.foundationprojectmvc.RecyclerViewSample
 
 import android.content.Context
 import android.widget.TextView
 import android.support.v7.widget.RecyclerView
-import liuuu.laurence.foundationprojectmvcandroid.model.GitHubUser
+import liuuu.laurence.foundationprojectmvc.model.GitHubUser
 import com.squareup.picasso.Picasso
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
-import liuuu.laurence.foundationprojectmvcandroid.R
-import liuuu.laurence.foundationprojectmvcandroid.utility.OnItemClickListener
+import liuuu.laurence.foundationprojectmvc.R
+import liuuu.laurence.foundationprojectmvc.utility.OnItemClickListener
 
 class GitHubUserAdapter(private val mContext: Context, private val mGitHubUserList: List<GitHubUser>) : RecyclerView.Adapter<GitHubUserAdapter.GitHubViewHolder>() {
 

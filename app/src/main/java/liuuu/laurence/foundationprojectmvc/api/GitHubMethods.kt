@@ -1,6 +1,6 @@
-package liuuu.laurence.foundationprojectmvcandroid.api
+package liuuu.laurence.foundationprojectmvc.api
 
-import liuuu.laurence.foundationprojectmvcandroid.model.GitHubUser
+import liuuu.laurence.foundationprojectmvc.model.GitHubUser
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Query

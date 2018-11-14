@@ -1,4 +1,4 @@
-package liuuu.laurence.foundationprojectmvcandroid.utility
+package liuuu.laurence.foundationprojectmvc.utility
 
 import android.app.Activity
 import android.content.Context

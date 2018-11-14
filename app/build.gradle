@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "liuuu.laurence.foundationprojectmvcandroid"
+        applicationId "liuuu.laurence.foundationprojectmvc"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
@@ -44,17 +44,17 @@ dependencies {
     // annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
 
     // Retrofit2 from Square -- http://square.github.io/retrofit/
-    implementation 'com.squareup.retrofit2:retrofit:2.4.0'
-    implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
+    implementation "com.squareup.retrofit2:retrofit:$retrofit2_version"
+    implementation "com.squareup.retrofit2:converter-gson:$retrofit2_version"
 
     // OkHttp3 from Square -- http://square.github.io/okhttp/
 //    implementation 'com.squareup.okhttp3:okhttp:3.10.0'
 
     // Picasso from Square  -- http://square.github.io/picasso/
-    implementation 'com.squareup.picasso:picasso:2.71828'
+    implementation "com.squareup.picasso:picasso:$picasso_version"
 
     // EventBus -- https://github.com/greenrobot/EventBus
-    implementation 'org.greenrobot:eventbus:3.1.1'
+    implementation "org.greenrobot:eventbus:$eventbus_version"
 
     // Realm -- https://realm.io/blog/realm-for-android/
     // Realm implementation not like above, check the link if needed

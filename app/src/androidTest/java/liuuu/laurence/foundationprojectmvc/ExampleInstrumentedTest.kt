@@ -1,4 +1,4 @@
-package liuuu.laurence.foundationprojectmvcandroid
+package liuuu.laurence.foundationprojectmvc
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
