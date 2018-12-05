@@ -6,4 +6,5 @@
 * [Android Foundation Project for Beginners — Retrofit2 and API](https://medium.com/@laurence.liuuu/android-foundation-project-for-beginners-retrofit2-and-api-c75afca53090)
 * [Android Foundation Project for Beginners — Utility](https://medium.com/@laurence.liuuu/android-foundation-project-for-beginners-utility-321060de61e3)
 * [Android Foundation Project for Beginners — RecyclerView & Adapter](https://medium.com/@laurence.liuuu/android-foundation-project-for-beginners-recyclerview-adapter-fef68807dd59)
+* [Android Foundation Project for Beginners — Custom ProgressDialog](https://medium.com/@laurence.liuuu/android-foundation-project-for-beginners-custom-progressdialog-6e694012f4a2)
 * [Android Foundation Project for Beginners — Conclusion](https://medium.com/@laurence.liuuu/android-foundation-project-for-beginners-conclusion-63e7454d4122)
