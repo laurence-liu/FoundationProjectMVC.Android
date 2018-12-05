@@ -41,6 +41,10 @@ class MainActivity : BaseActivity() {
                 noButton {}
             }.show()
         }
+
+        progressButton.setOnClickListener {
+            showProgress("I AM TITLE!!!")
+        }
     }
 
 }

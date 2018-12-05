@@ -9,7 +9,9 @@ import android.widget.TextView
 
 abstract class BaseActivity : AppCompatActivity() {
 
-    protected lateinit var mToolbar: Toolbar
+    private lateinit var mToolbar: Toolbar
+
+    private lateinit var mProgressDialogFragment: ProgressDialogFragment
 
     override fun setContentView(layoutResID: Int) {
         val layout = layoutInflater.inflate(R.layout.activity_base, null) as RelativeLayout
@@ -33,5 +35,14 @@ abstract class BaseActivity : AppCompatActivity() {
 //    protected fun showToast(msg: String) {
 //        Toast.makeText(this, msg, Toast.LENGTH_LONG).show()
 //    }
+
+    protected fun showProgress(title: String) {
+        mProgressDialogFragment = ProgressDialogFragment.newInstance(title)
+        mProgressDialogFragment.show(supportFragmentManager, "ProgressDialog")
+    }
+
+    protected fun dismissProgress() {
+        mProgressDialogFragment.dismiss()
+    }
 
 }

@@ -56,6 +56,9 @@ dependencies {
     // EventBus -- https://github.com/greenrobot/EventBus
     implementation "org.greenrobot:eventbus:$eventbus_version"
 
+    // Lottie from Airbnb
+    implementation "com.airbnb.android:lottie:$lottie_version"
+
     // Realm -- https://realm.io/blog/realm-for-android/
     // Realm implementation not like above, check the link if needed
 
